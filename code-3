@@ -1,0 +1,17 @@
+package lecture;
+
+public class main {
+	
+	public static void main(String[]args)
+	{
+		System.out.print("I am so weak in english\t");
+		System.out.print("I am not good student\t");
+		System.out.print("I have some weak point");
+	}
+	
+		
+		
+		
+	}
+
+
